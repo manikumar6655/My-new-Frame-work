@@ -1,0 +1,18 @@
+2023-06-13 14:33:31,280 - com.Utilities.LogUtilities -INFO - Test Environment setUp
+2023-06-13 14:33:46,601 - com.Utilities.LogUtilities -INFO - Test Environment setUp
+2023-06-13 14:33:58,658 - com.Utilities.LogUtilities -INFO - Test Environment setUp
+2023-06-13 14:35:23,303 - com.Utilities.LogUtilities -INFO - Test Environment setUp
+2023-06-13 14:35:23,319 - com.Utilities.LogUtilities -WARN - ---Getting file---
+2023-06-13 14:35:23,334 - com.Utilities.LogUtilities -WARN - ---File loaded Successfully----
+2023-06-13 14:35:27,680 - com.Utilities.LogUtilities -ERROR - ---Edge Opened Successfully---
+2023-06-13 14:35:29,821 - com.Utilities.LogUtilities -FATAL - ---Url laaunched Successfully---
+2023-06-13 14:35:33,836 - com.Utilities.LogUtilities -INFO - Test Environment setUp
+2023-06-13 14:35:33,867 - com.Utilities.LogUtilities -WARN - ---Getting file---
+2023-06-13 14:35:33,885 - com.Utilities.LogUtilities -WARN - ---File loaded Successfully----
+2023-06-13 14:35:36,635 - com.Utilities.LogUtilities -ERROR - ---Edge Opened Successfully---
+2023-06-13 14:35:38,834 - com.Utilities.LogUtilities -FATAL - ---Url laaunched Successfully---
+2023-06-13 14:35:43,953 - com.Utilities.LogUtilities -INFO - Test Environment setUp
+2023-06-13 14:35:43,972 - com.Utilities.LogUtilities -WARN - ---Getting file---
+2023-06-13 14:35:43,989 - com.Utilities.LogUtilities -WARN - ---File loaded Successfully----
+2023-06-13 14:35:46,754 - com.Utilities.LogUtilities -ERROR - ---Edge Opened Successfully---
+2023-06-13 14:35:49,124 - com.Utilities.LogUtilities -FATAL - ---Url laaunched Successfully---

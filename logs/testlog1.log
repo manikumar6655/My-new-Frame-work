@@ -1,0 +1,15 @@
+[main] INFO com.Utilities.LogUtilities - Test Environment setUp
+[main] WARN com.Utilities.LogUtilities - ---Getting file---
+[main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogUtilities - Test Environment setUp
+[main] WARN com.Utilities.LogUtilities - ---Getting file---
+[main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogUtilities - Test Environment setUp
+[main] WARN com.Utilities.LogUtilities - ---Getting file---
+[main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
