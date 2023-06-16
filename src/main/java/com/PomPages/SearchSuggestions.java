@@ -2,24 +2,22 @@ package com.PomPages;
 
 import java.awt.AWTException;
 import java.io.IOException;
-
 import org.apache.poi.EncryptedDocumentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 import com.TestBase.BaseClass;
-import com.Utilities.ExcelFileUtility;
+import com.Utilities.ExcelFile;
 import com.Utilities.Validations;
 
-import net.bytebuddy.asm.MemberSubstitution.FieldValue;
+
 
 public class SearchSuggestions extends BaseClass {
 
 	Validations v=new Validations();
-	
-	ExcelFileUtility excel=new ExcelFileUtility();
+	ExcelFile excel=new ExcelFile();
+
 
 	public SearchSuggestions(WebDriver driver) {
 		this.driver=driver;
@@ -40,9 +38,9 @@ public class SearchSuggestions extends BaseClass {
 	public void GetData() throws InterruptedException, AWTException, EncryptedDocumentException, IOException
 	{
 		
-		String data=excel.readDataFromExcel("Amazon", 1, 1);
+		//String data=excel.readDataFromExcel("Amazon", 1, 1);
 
-		textbox.sendKeys(data);
+		textbox.sendKeys("Amz");
 		ut.sleep();
 		ut.keyboard(driver,"ARROW_DOWN");
 		ut.keyboard(driver,"ENTER");

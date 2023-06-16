@@ -2,9 +2,6 @@ package com.PomPages;
 
 
 import java.awt.AWTException;
-import java.awt.Robot;
-import java.awt.event.KeyEvent;
-import java.io.IOException;
 
 import org.apache.poi.EncryptedDocumentException;
 import org.openqa.selenium.WebDriver;
@@ -13,14 +10,14 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.TestBase.BaseClass;
-import com.Utilities.ExcelFileUtility;
+import com.Utilities.ExcelFile;
 import com.Utilities.Validations;
 
 public class SearchFunctionality extends BaseClass{
 
 	
 	Validations v=new Validations();
-	ExcelFileUtility excel=new ExcelFileUtility();
+	ExcelFile excel=new ExcelFile();
 	
 	
 	public  SearchFunctionality(WebDriver driver)

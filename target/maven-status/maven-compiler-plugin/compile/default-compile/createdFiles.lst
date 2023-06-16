@@ -1,0 +1,10 @@
+com\TestBase\BaseClass.class
+com\PomPages\SearchFunctionality.class
+com\PomPages\ImageSearch.class
+com\PomPages\SearchSuggestions.class
+com\Utilities\ExcelFile.class
+com\Utilities\Validations.class
+com\Utilities\ScreenshotUtilities.class
+com\Utilities\webdriverUtilities.class
+com\Utilities\ListenersUtilities.class
+com\Utilities\LogFile.class

@@ -3,10 +3,10 @@ package com.Utilities;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
-public class LogUtilities {
+public class LogFile {
 
 	String LogFilepath = "C:\\JavaEclipse\\Amazon\\src\\test\\resources\\log4j.properties";
-	Logger logger = Logger.getLogger(LogUtilities.class);
+	Logger logger = Logger.getLogger(LogFile.class);
 
 	public void info(String value) {
 

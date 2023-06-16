@@ -11,7 +11,7 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
-public class ExcelFileUtility {
+public class ExcelFile {
 	
 
 	public String readDataFromExcel(String sheet, int row, int cell) throws EncryptedDocumentException, IOException

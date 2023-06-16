@@ -1,7 +1,9 @@
 package com.PomPages;
 
 import java.awt.AWTException;
+import java.io.IOException;
 
+import org.apache.poi.EncryptedDocumentException;
 import org.apache.poi.sl.usermodel.TextBox;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -10,9 +12,12 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.TestBase.BaseClass;
+import com.Utilities.ExcelFile;
 import com.Utilities.webdriverUtilities;
 
 public class ImageSearch extends BaseClass{
+
+	ExcelFile excel=new ExcelFile();
 
 	
 	public ImageSearch(WebDriver driver)
@@ -39,12 +44,12 @@ public class ImageSearch extends BaseClass{
 	
 
 	
-	public void getData() throws InterruptedException, AWTException
+	public void getData() throws InterruptedException, AWTException, EncryptedDocumentException, IOException
 	{
-		
+		String data=excel.readDataFromExcel("Amazon", 0, 0);
 		imagebtn.click();
 		ut.sleep();
-		textbox.sendKeys("Amazon");
+		textbox.sendKeys(data);
 		ut.sleep();
 		ut.robot();
 		

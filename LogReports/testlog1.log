@@ -451,3 +451,322 @@
 [main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
 [main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
 [main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogUtilities - Test Environment setUp
+[main] WARN com.Utilities.LogUtilities - ---Getting file---
+[main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogUtilities - Test Environment setUp
+[main] WARN com.Utilities.LogUtilities - ---Getting file---
+[main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogUtilities - Test Environment setUp
+[main] WARN com.Utilities.LogUtilities - ---Getting file---
+[main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogUtilities - Test Environment setUp
+[main] WARN com.Utilities.LogUtilities - ---Getting file---
+[main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogUtilities - Test Environment setUp
+[main] WARN com.Utilities.LogUtilities - ---Getting file---
+[main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogUtilities - Test Environment setUp
+[main] WARN com.Utilities.LogUtilities - ---Getting file---
+[main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogUtilities - Test Environment setUp
+[main] WARN com.Utilities.LogUtilities - ---Getting file---
+[main] WARN com.Utilities.LogUtilities - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogUtilities - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogUtilities - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Search Functionality Test is Passed
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Search Suggestions Test is passed
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - image Search Test is passed
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - image Search Test is passed
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - image Search Test is passed
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - image Search Test is passed
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-2] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-1] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-3] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-3] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-2] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-1] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Search Suggestions Test is passed
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - image Search Test is passed
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-2] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-3] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-1] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-2] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-3] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - image Search Test is passed
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-2] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-3] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-2] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-1] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-3] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - image Search Test is passed
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Search Functionality Test is Passed
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-2] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-1] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-3] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-2] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-1] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-3] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Search Suggestions Test is passed
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - image Search Test is passed
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-2] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-1] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-2] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Search Functionality Test is Passed
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Search Suggestions Test is passed
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - image Search Test is passed
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-2] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-3] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-1] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-2] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-3] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - image Search Test is passed
+[TestNG-test=Test-2] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-1] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-3] INFO com.Utilities.LogFile - Test Environment setUp
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-2] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---Getting file---
+[TestNG-test=Test-1] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-3] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[TestNG-test=Test-1] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-2] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-3] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[TestNG-test=Test-1] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-2] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[TestNG-test=Test-3] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Search Functionality Test is Passed
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - Test Environment setUp
+[main] WARN com.Utilities.LogFile - ---Getting file---
+[main] WARN com.Utilities.LogFile - ---File loaded Successfully----
+[main] ERROR com.Utilities.LogFile - ---Edge Opened Successfully---
+[main] FATAL com.Utilities.LogFile - ---Url laaunched Successfully---
+[main] INFO com.Utilities.LogFile - image Search Test is passed
